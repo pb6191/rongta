@@ -1142,13 +1142,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "rongta_client",
+      "name": "Rongta",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-01-06T14:00:51.856598Z",
+  "generated": "2025-01-19T13:29:03.449326Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/Users/PC-P14s/Downloads/flutter_windows_3.27.1-stable/flutter/flutter",
